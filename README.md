@@ -1,6 +1,6 @@
 ## Installation
 
-Following libraries are needed to run the code: pandas , numpy, scipy , seaborn , matplotlib , plotly , colorlover. Installation can be done using command: python -m pip install "name of library".
+Following libraries are needed to run the code: pandas , numpy, scipy , seaborn , matplotlib , plotly , colorlover . Installation can be done using command: python -m pip install "name of library".
 Code runs on Python version 3 and above.
 
 
@@ -18,7 +18,7 @@ In this project I wanted to first understand if European developers are more sat
 
 ## File Description
 
-Above analysis has been performed in a single notebook under name: data_exploration.ipynb. Comments and markdowns have been used to explain the code and separate the sections.
+Above analysis has been performed in a single notebook under name: data_exploration.ipynb following CRISP-DM process. Comments and markdowns have been used to explain the code and separate the sections.
 
 ## Results
 The main findings of the code can be found in the post available [here](https://medium.com/@_Florida/bits-of-insights-from-developers-living-in-worlds-happiest-countries-1d2e43798b5d).
