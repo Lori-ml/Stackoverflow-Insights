@@ -4,7 +4,7 @@ Following libraries are needed to run the code: pandas , numpy, scipy , seaborn 
 Code runs on Python version 3 and above.
 
 
-## Project Motivation
+## Project Description
 
 In this project I wanted to first understand if European developers are more satisfied with their job compared to their USA colleagues. Secondly, I was interested in analyzing the factors developers living in the happiest countries consider between two equal job offers. To answer these questions, I used Stack Overflow Developer Survey data field for years 2018, 2019 and 2020. Responders to these surveys were recruited through channels owned by Stack Overflow, thus highly engaged users were more likely to get link for the survey. These datasets helped me answered following questions:
 
@@ -23,7 +23,7 @@ Above analysis has been performed in a single notebook under name: data_explorat
 ## Results
 The main findings of the code can be found in the post available [here](https://medium.com/@_Florida/bits-of-insights-from-developers-living-in-worlds-happiest-countries-1d2e43798b5d).
 
-## Licensing, Authors, Acknowledgements
+## Acknowledgements
 
 This analysis was made possible through StackOverflow survey data which can be downloaded from [here](https://insights.stackoverflow.com/survey). 
 
