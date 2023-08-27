@@ -6,7 +6,7 @@ Code runs on Python version 3 and above.
 
 ## Project Description
 
-In this project I wanted to first understand if European developers are more satisfied with their job compared to their USA colleagues. Secondly, I was interested in analyzing the factors developers living in the happiest countries consider between two equal job offers. To answer these questions, I used Stack Overflow Developer Survey data field for years 2018, 2019 and 2020. Responders to these surveys were recruited through channels owned by Stack Overflow, thus highly engaged users were more likely to get link for the survey. These datasets helped me answered following questions:
+In this project I wanted to first understand if European developers are more satisfied with their job compared to their USA colleagues. Secondly, I was interested in analyzing the factors developers living in the happiest countries consider between two equal job offers. To answer these questions, I used Stack Overflow Developer Survey data for years 2018, 2019 and 2020. Responders to these surveys were recruited through channels owned by Stack Overflow, thus highly engaged users were more likely to get link for the survey. These datasets helped me answered following questions:
 
       1. Does job satisfaction for coders differ between Europe and USA?
       2. Is the difference statistically significant?
